@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "YouTube Speeder",
+  "description": "Set YouTube video speed from 0.1x to 20x with a beautiful UI. Developed By Ansh (@anshmaybee / @highoncodes).",
+  "version": "2.0.0",
+  "icons": {
+    "16": "icons/icon.svg",
+    "48": "icons/icon.svg",
+    "128": "icons/icon.svg"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "*://*.youtube.com/*"
+      ],
+      "js": ["content.js"],
+      "css": ["styles.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}
