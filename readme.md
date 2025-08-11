@@ -12,7 +12,7 @@ Perfect for fast learners, slow motion replays, or just having fun.
 - Developed by **Ansh** 💻
 - Quick links to my socials:
   - 📸 Instagram: [@anshmaybee](https://instagram.com/anshmaybee)
-  - 💬 Telegram: [@highoncodes](https://t.me/highoncodes)
+  - 💬 Telegram: [@highoncodes](https://telegram.me/highoncodes)
 
 ---
 
@@ -25,8 +25,7 @@ Perfect for fast learners, slow motion replays, or just having fun.
 Since we are not publishing this on the Chrome Web Store, you can install it manually:
 
 1. **Download ZIP**
-   - Click the green **Code** button on this repo → **Download ZIP**
-   - Or [click here to download latest release](#) *(add GitHub release link if you make one)*
+   - Click the green **Code** button on this repo → **Download ZIP*
 
 2. **Unzip the folder**
    - Right-click → Extract All
@@ -60,3 +59,4 @@ You can modify it, but please credit **Ansh** if you share or re-upload.
 ## 💬 Contact
 - 📸 Instagram: [@anshmaybee](https://instagram.com/anshmaybee)
 - 💬 Telegram: [@highoncodes](https://t.me/highoncodes)
+
